@@ -10,7 +10,7 @@ int main() {
 
     if(a>b)
     {
-        printf("%d is greater the %d", a,b);
+        printf("%d is greater than %d", a,b);
     }
     else
     {
@@ -18,6 +18,7 @@ int main() {
     }
     return 0;
 }
+
 
 
 
